@@ -39,8 +39,8 @@ Computer Science graduate passionate about building impactful applications and m
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60" alt="Express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt=".NET" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tauri.svg" height="60" alt="Tauri" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="Tailwind CSS" />
+<img src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4" height="60" alt="Tauri" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="Tailwind CSS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" />
 
 ### Databases & Tools
