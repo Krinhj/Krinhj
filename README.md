@@ -1,100 +1,96 @@
-# Hi there, I'm Ronnie! 👋
+# Welcome! I'm Ronnie 👨‍💻
 
-Welcome to my GitHub profile! I'm a fresh Computer Science graduate passionate about building impactful applications and making everything I work on better than I found it.
+A Computer Science graduate passionate about building impactful applications and making everything I work on better than I found it.
 
 ## 🚀 About Me
 
-- 🎓 Fresh **Bachelor of Science in Computer Science** graduate
-- 💼 Experienced in **CRUD operations** and **database management** with real-world projects
-- 🏢 Completed a 4-month internship at the **Department of Budget and Management (Philippines)** working on national database systems
-- 🔭 Currently building **GetMeHired** - a comprehensive job application tracking tool with AI-powered resume and cover letter generation
-- 🌱 Learning **AWS**, **Cloud Services**, and **Docker** to expand my DevOps skills
-- 👯 Looking to collaborate on projects where I can make a positive impact
-- 💬 Ask me about **CRUD Applications**, **Database Design**, **REST APIs**, and **Full-Stack Development**
-- ⚡ Fun fact: I love hitting the gym, experimenting in the kitchen, and gaming in my free time!
+- 🎓 **Bachelor of Science in Computer Science** graduate with hands-on experience in full-stack development
+- 💼 Experienced in **CRUD operations**, **database design**, and **API development** across multiple technologies
+- 🏢 Completed Backend Developer internship at **Department of Budget and Management (Philippines)** working on national database systems
+- 🔭 Currently building **GetMeHired** - a comprehensive job application tracking tool with AI-powered features
+- 🌱 Expanding my skills in **AWS**, **Cloud Services**, and **Docker**
+- 👯 Open to collaborating on projects that create meaningful impact
+- 💬 Ask me about **Database Architecture**, **REST APIs**, **Full-Stack Development**, and **Data Migration**
+- ⚡ Proudly maintaining a **400+ day streak** learning French on Duolingo [![Duolingo](https://duolingo-stats-card.vercel.app/api?username=RonnieJr.D&theme=dark)](https://duolingo.com/profile/RonnieJr.D)
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt=".NET" />
+<img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/app-icon.png" height="60" alt="Tauri" />
 
 ### Databases & Tools
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="SQL Server" />
+<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="60" alt="Supabase" />
 
-### Development Environment
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ## 📊 GitHub Stats
 
-![Krinhj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krinhj&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krinhj&layout=compact&theme=dark)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Krinhj&show_icons=true&theme=dark&count_private=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krinhj&layout=compact&theme=dark" height="180em" />
+</div>
 
 ## 🔥 Featured Projects
 
-### 💼 [GetMeHired](https://github.com/Krinhj/get-me-hired) *[In Development]*
-A comprehensive job application tracking tool featuring an AI-powered resume builder and cover letter writer using OpenAI API. Built to streamline the job search process for fellow developers.
+### 💼 [GetMeHired](https://get-me-hired.vercel.app/) | [Repository](https://github.com/Krinhj/get-me-hired)
+A comprehensive job application tracking tool featuring an AI-powered resume builder and cover letter writer using OpenAI API. Streamlines the job search process with intelligent automation and organization features.
 
 ### ⛪ [Baptismal Records App](https://github.com/Krinhj/baptismal-records-app)
-A secure desktop application for local parishes to manage baptismal records offline. Built with React and Tauri V2, offering a user-friendly interface for church administration.
+A secure desktop application for local parishes to manage baptismal records offline. Built with React and Tauri V2, providing a reliable solution for church administration with data security as a priority.
 
 ### 🏥 [MediTriage](https://github.com/Krinhj/MediTriage)
-An AI/ML healthcare chatbot that performs medical triage by assessing symptoms to determine treatment urgency. Currently on hold as I deepen my machine learning knowledge.
+An AI/ML healthcare application that performs medical triage by analyzing symptoms to determine treatment urgency. Built using **Python**, **Pandas** for data processing, **Hugging Face** transformers, and trained on the **DDXPlus Dataset** for accurate medical symptom analysis.
 
 ### 📊 [TDEE Calculator API](https://github.com/Krinhj/tdee-api)
-A fast and accurate REST API for calculating Total Daily Energy Expenditure, deployed on Railway and available on RapidAPI. Built with Node.js and Express, tested extensively with Postman.
+A production-ready REST API for calculating Total Daily Energy Expenditure, deployed on Railway and available on RapidAPI. Built with Node.js and Express, extensively tested with Postman for reliability.
 
 ## 💼 Professional Experience
 
-**Database Migration Intern** | *Department of Budget and Management, Philippines* | *Feb 2025 - May 2025*
-- Developed Excel data scraper to migrate National Tax Allocation and National Wealth databases from MongoDB to SQL
-- Built and tested REST APIs for data retrieval, delivering endpoints to front-end developers
-- Worked with large-scale government databases serving national financial data
+**Backend Developer** | *Department of Budget and Management, Philippines* | *Feb 2025 - May 2025*
+- Architected and implemented data migration system from MongoDB to SQL Database for National Tax Allocation and National Wealth databases
+- Developed Excel data scraper with automatic data locator that precisely identifies coordinate positions, eliminating manual data location processes
+- Built REST APIs using **Java** with MVC framework to serve government financial data to front-end applications
+- Processed regional data across all Philippines regions for 2024-2025 fiscal periods
 
-**Notable Projects:**
-- **Construction Company CRUD System** - Material and expenditure tracking across multiple projects
-- **Spacecraft E-Commerce Platform** - Full-stack fictional e-commerce site using PHP, MySQL, and Apache
-- **Various Database Applications** - Extensive experience with CRUD operations and SQL optimization
+**Key Projects:**
+- **Construction Company Management System** - Built comprehensive CRUD application using **.NET Framework** with **C#** in Visual Studio 2022, integrated with **SQL Server** for materials and expenditure tracking across multiple construction projects
+- **Spacecraft E-Commerce Platform** - Developed full-stack e-commerce solution using **PHP**, **MySQL**, and **Apache** with complete shopping cart functionality
 
 ## 🌟 Current Focus
 
-- 🔨 Building **GetMeHired** to help job seekers manage their applications more effectively
-- ☁️ Learning **AWS** and **Docker** for cloud deployment and containerization
-- 🤖 Expanding knowledge in **AI/ML** to enhance healthcare applications
-- 📈 Contributing to open source projects and collaborating with other developers
+- 🔨 Developing **GetMeHired** with advanced AI features for job seekers
+- ☁️ Learning **AWS** and **Docker** for scalable cloud deployments  
+- 🤖 Deepening expertise in **Machine Learning** for healthcare applications
+- 📈 Contributing to open source projects and building collaborative relationships
 
 ## 🎯 Career Philosophy
 
-*"I want to have a positive impact on everything I work on. My goal is to join projects and leave them better than I found them, always striving to accomplish something meaningful and make genuine improvements."*
-
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krinhj&theme=react-dark)
+*"I strive to have a positive impact on everything I work on. My approach is to join projects and leave them better than I found them, always aiming to accomplish something meaningful and create genuine improvements."*
 
 ## 🤝 Let's Connect!
 
-I'm always open to collaboration opportunities and interesting conversations about technology!
+Always interested in collaboration opportunities and technical discussions.
 
 - 💼 **LinkedIn:** [Ronnie Talabucon Jr.](https://www.linkedin.com/in/ronnie-talabucon-jr-30528b31b)
 - 📧 **Email:** ron.talabuconjr.dev@gmail.com
-- 🌟 **Looking for:** Entry-level opportunities, open source collaborations, and mentorship
+- 🌟 **Open to:** Full-time opportunities, open source collaborations, and tech mentorship
 
 ---
 
-⭐️ From [Krinhj](https://github.com/Krinhj) | *"Making things better, one commit at a time"*
+⭐️ From [Krinhj](https://github.com/Krinhj) | *"Building better solutions, one project at a time"*
