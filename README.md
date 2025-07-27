@@ -1,6 +1,6 @@
 # Welcome! I'm Ronnie 👨‍💻
 
-A Computer Science graduate passionate about building impactful applications and making everything I work on better than I found it.
+Computer Science graduate passionate about building impactful applications and making everything I work on better than I found it.
 
 ## 🚀 About Me
 
@@ -11,7 +11,14 @@ A Computer Science graduate passionate about building impactful applications and
 - 🌱 Expanding my skills in **AWS**, **Cloud Services**, and **Docker**
 - 👯 Open to collaborating on projects that create meaningful impact
 - 💬 Ask me about **Database Architecture**, **REST APIs**, **Full-Stack Development**, and **Data Migration**
-- ⚡ Proudly maintaining a **400+ day streak** learning French on Duolingo [![Duolingo](https://duolingo-stats-card.vercel.app/api?username=RonnieJr.D&theme=dark)](https://duolingo.com/profile/RonnieJr.D)
+
+<div align="center">
+
+⚡ Proudly maintaining my French learning streak on Duolingo 
+
+[![Duolingo](https://duolingo-stats-card.vercel.app/api?username=RonnieJr.D&theme=dark)](https://duolingo.com/profile/RonnieJr.D)
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -27,15 +34,15 @@ A Computer Science graduate passionate about building impactful applications and
 ### Frameworks & Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60" alt="Express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt=".NET" />
-<img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/app-icon.png" height="60" alt="Tauri" />
+<img src="https://github.com/tauri-apps/tauri/raw/dev/.github/splash.png" height="60" alt="Tauri" />
 
 ### Databases & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="SQL Server" />
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="60" alt="Supabase" />
+<img src="https://github.com/supabase/supabase/raw/master/apps/www/public/images/supabase-logo-icon.png" height="60" alt="Supabase" />
 
 </div>
 
