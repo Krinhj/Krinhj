@@ -1,6 +1,6 @@
 # Welcome! I'm Ronnie 👨‍💻
 
-Computer Science graduate passionate about building impactful applications and making everything I work on better than I found it.
+Computer Science graduate with a focus on building impactful applications and making everything I work on better than I found it.
 
 ## 🚀 About Me
 
