@@ -88,7 +88,7 @@ A production-ready REST API for calculating Total Daily Energy Expenditure, depl
 
 - 🔨 Developing **GetMeHired** with advanced AI features for job seekers
 - ☁️ Learning **AWS** and **Docker** for scalable cloud deployments  
-- 🤖 Deepening expertise in **Machine Learning** for healthcare applications
+- 🤖 Deepening expertise in **Machine Learning** for various applications
 - 📈 Contributing to open source projects and building collaborative relationships
 
 ## 🎯 Career Philosophy
