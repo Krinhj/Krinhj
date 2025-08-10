@@ -7,10 +7,11 @@ Computer Science graduate with a focus on building impactful applications and ma
 - 🎓 **Bachelor of Science in Computer Science** graduate with hands-on experience in full-stack development
 - 💼 Experienced in **CRUD operations**, **database design**, and **API development** across multiple technologies
 - 🏢 Completed Backend Developer internship at **Department of Budget and Management (Philippines)** working on national database systems
-- 🔭 Currently building **GetMeHired** - a comprehensive job application tracking tool with AI-powered features
-- 🌱 Expanding my skills in **AWS**, **Cloud Services**, and **Docker**
+- 🔭 Currently building **MOMENTUM** - a comprehensive AI-orchestrated self-improvement suite spanning fitness, nutrition, finance, and productivity
+- 🤖 Developed **GAIA** - a custom Llama3.1:8b-based AI orchestrator with RAG architecture for personalized life coaching across all domains
+- 🌱 Expanding my skills in **AWS**, **Cloud Services**, **Docker**, and **Large Language Models**
 - 👯 Open to collaborating on projects that create meaningful impact
-- 💬 Ask me about **Database Architecture**, **REST APIs**, **Full-Stack Development**, and **Data Migration**
+- 💬 Ask me about **Database Architecture**, **REST APIs**, **Full-Stack Development**, **AI Integration**, **Vector Databases**, and **Data Migration**
 
 <div align="center">
 
@@ -33,6 +34,7 @@ Computer Science graduate with a focus on building impactful applications and ma
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="60" alt="Rust" />
 
 ### Frameworks & Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
@@ -60,6 +62,13 @@ Computer Science graduate with a focus on building impactful applications and ma
 
 ## 🔥 Featured Projects
 
+### 🌟 [MOMENTUM - AI Self-Improvement Suite](https://github.com/Krinhj/momentum) ⭐ *Flagship Project*
+**A comprehensive self-improvement ecosystem featuring GAIA, a custom Llama3.1:8b-based AI orchestrator that intelligently coordinates multiple life management applications through RAG architecture and vector database integration.**
+
+**Technical Stack:** React + TypeScript, Rust + Tauri V2, Ollama (Llama3.1:8b), Qdrant Vector Database, Docker
+**Key Features:** AI orchestration across fitness (ARES), nutrition (DEMETER), with planned financial, project, and time management modules
+**Architecture:** Local LLM processing, embedding-based function selection, UserCodex profile system, cross-platform desktop application
+
 ### 💼 [GetMeHired](https://get-me-hired.vercel.app/) | [Repository](https://github.com/Krinhj/get-me-hired)
 A comprehensive job application tracking tool featuring an AI-powered resume builder and cover letter writer using OpenAI API. Streamlines the job search process with intelligent automation and organization features.
 
@@ -86,9 +95,10 @@ A production-ready REST API for calculating Total Daily Energy Expenditure, depl
 
 ## 🌟 Current Focus
 
-- 🔨 Developing **GetMeHired** with advanced AI features for job seekers
+- 🔨 Expanding **MOMENTUM** with additional modules and enhancing **GAIA's** AI orchestration capabilities
+- 🤖 Deepening expertise in **Large Language Models**, **RAG implementations**, and **Vector Database integration**
 - ☁️ Learning **AWS** and **Docker** for scalable cloud deployments  
-- 🤖 Deepening expertise in AI and Machine Learning by training a custom LLM
+- 📈 Contributing to open source projects and building collaborative relationships
 - 📈 Contributing to open source projects and building collaborative relationships
 
 ## 🎯 Career Philosophy
@@ -97,7 +107,7 @@ A production-ready REST API for calculating Total Daily Energy Expenditure, depl
 
 ## 🤝 Let's Connect!
 
-Always interested in collaboration opportunities and technical discussions.
+Always interested in collaboration opportunities and technical discussions, especially around AI integration and modern application development.
 
 - 💼 **LinkedIn:** [Ronnie Talabucon Jr.](https://www.linkedin.com/in/ronnie-talabucon-jr-30528b31b)
 - 📧 **Email:** ron.talabuconjr.dev@gmail.com
