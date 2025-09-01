@@ -77,7 +77,8 @@ Computer Science graduate with a focus on building impactful applications and ma
 
 **A modern, searchable exam schedule finder for Central Philippine University students, solving the problem of manually scanning through PDF images to find exam schedules.**
 
-**Live Site:** [cpuexamfinder.vercel.app](https://cpuexamfinder.vercel.app)  
+**Live Site:** [cpuexamfinder.vercel.app](https://cpuexamfinder.vercel.app)
+
 **Technical Stack:** React 19 + TypeScript, Express.js, Supabase (PostgreSQL), Tailwind CSS, Deployed on Vercel & Render
 **Key Features:** Flexible subject-based search, mobile-responsive design, smart error handling, real-time validation, CPU branding
 **Impact:** Built for fellow CPU students after graduation, with potential for official university integration
