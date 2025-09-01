@@ -15,7 +15,7 @@ Computer Science graduate with a focus on building impactful applications and ma
 
 <div align="center">
 
-⚡ Proudly maintaining my French learning streak on Duolingo 
+⚡ Proudly maintaining my French learning streak on Duolingo
 
 [![Duolingo](https://duolingo-stats-card.vercel.app/api?username=RonnieJr.D&theme=dark)](https://duolingo.com/profile/RonnieJr.D)
 
@@ -26,6 +26,7 @@ Computer Science graduate with a focus on building impactful applications and ma
 <div align="center">
 
 ### Languages
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" />
@@ -37,6 +38,7 @@ Computer Science graduate with a focus on building impactful applications and ma
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="60" alt="Rust" />
 
 ### Frameworks & Libraries
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60" alt="Express" />
@@ -46,6 +48,7 @@ Computer Science graduate with a focus on building impactful applications and ma
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" />
 
 ### Databases & Tools
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="SQL Server" />
@@ -62,34 +65,50 @@ Computer Science graduate with a focus on building impactful applications and ma
 
 ## 🔥 Featured Projects
 
-### 🌟 [MOMENTUM - AI Self-Improvement Suite](https://github.com/Krinhj/momentum) ⭐ *Flagship Project*
+### 🌟 [MOMENTUM - AI Self-Improvement Suite](https://github.com/Krinhj/momentum) ⭐ _Flagship Project_
+
 **A comprehensive self-improvement ecosystem featuring GAIA, a custom Llama3.1:8b-based AI orchestrator that intelligently coordinates multiple life management applications through RAG architecture and vector database integration.**
 
 **Technical Stack:** React + TypeScript, Rust + Tauri V2, Ollama (Llama3.1:8b), Qdrant Vector Database, Docker
 **Key Features:** AI orchestration across fitness (ARES), nutrition (DEMETER), with planned financial, project, and time management modules
 **Architecture:** Local LLM processing, embedding-based function selection, UserCodex profile system, cross-platform desktop application
 
+### 🔍 [CPU Exam Schedule Finder](https://cpuexamfinder.vercel.app) | [Repository](https://github.com/Krinhj/cpu-exam-schedule-finder)
+
+**A modern, searchable exam schedule finder for Central Philippine University students, solving the problem of manually scanning through PDF images to find exam schedules.**
+
+**Live Site:** [cpuexamfinder.vercel.app](https://cpuexamfinder.vercel.app)  
+**Technical Stack:** React 19 + TypeScript, Express.js, Supabase (PostgreSQL), Tailwind CSS, Deployed on Vercel & Render
+**Key Features:** Flexible subject-based search, mobile-responsive design, smart error handling, real-time validation, CPU branding
+**Impact:** Built for fellow CPU students after graduation, with potential for official university integration
+
 ### 💼 [GetMeHired](https://get-me-hired.vercel.app/) | [Repository](https://github.com/Krinhj/get-me-hired)
+
 A comprehensive job application tracking tool featuring an AI-powered resume builder and cover letter writer using OpenAI API. Streamlines the job search process with intelligent automation and organization features.
 
 ### ⛪ [Baptismal Records App](https://github.com/Krinhj/baptismal-records-app)
+
 A secure desktop application for local parishes to manage baptismal records offline. Built with React and Tauri V2, providing a reliable solution for church administration with data security as a priority.
 
 ### 🏥 [MediTriage](https://github.com/Krinhj/MediTriage)
+
 An AI/ML healthcare application that performs medical triage by analyzing symptoms to determine treatment urgency. Built using **Python**, **Pandas** for data processing, **Hugging Face** transformers, and trained on the **DDXPlus Dataset** for accurate medical symptom analysis.
 
 ### 📊 [TDEE Calculator API](https://github.com/Krinhj/tdee-api)
+
 A production-ready REST API for calculating Total Daily Energy Expenditure, deployed on Railway and available on RapidAPI. Built with Node.js and Express, extensively tested with Postman for reliability.
 
 ## 💼 Professional Experience
 
-**Backend Developer** | *Department of Budget and Management, Philippines* | *Feb 2025 - May 2025*
+**Backend Developer** | _Department of Budget and Management, Philippines_ | _Feb 2025 - May 2025_
+
 - Architected and implemented data migration system from MongoDB to SQL Database for National Tax Allocation and National Wealth databases
 - Developed Excel data scraper with automatic data locator that precisely identifies coordinate positions, eliminating manual data location processes
 - Built REST APIs using **Java** with MVC framework to serve government financial data to front-end applications
 - Processed regional data across all Philippines regions for 2024-2025 fiscal periods
 
 **Key Projects:**
+
 - **Construction Company Management System** - Built comprehensive CRUD application using **.NET Framework** with **C#** in Visual Studio 2022, integrated with **SQL Server** for materials and expenditure tracking across multiple construction projects
 - **Spacecraft E-Commerce Platform** - Developed full-stack e-commerce solution using **PHP**, **MySQL**, and **Apache** with complete shopping cart functionality
 
@@ -97,12 +116,12 @@ A production-ready REST API for calculating Total Daily Energy Expenditure, depl
 
 - 🔨 Expanding **MOMENTUM** with additional modules and enhancing **GAIA's** AI orchestration capabilities
 - 🤖 Deepening expertise in **Large Language Models**, **RAG implementations**, and **Vector Database integration**
-- ☁️ Learning **AWS** and **Docker** for scalable cloud deployments  
+- ☁️ Learning **AWS** and **Docker** for scalable cloud deployments
 - 📈 Contributing to open source projects and building collaborative relationships
 
 ## 🎯 Career Philosophy
 
-*"I strive to have a positive impact on everything I work on. My approach is to join projects and leave them better than I found them, always aiming to accomplish something meaningful and create genuine improvements."*
+_"I strive to have a positive impact on everything I work on. My approach is to join projects and leave them better than I found them, always aiming to accomplish something meaningful and create genuine improvements."_
 
 ## 🤝 Let's Connect!
 
@@ -114,4 +133,4 @@ Always interested in collaboration opportunities and technical discussions, espe
 
 ---
 
-⭐️ From [Krinhj](https://github.com/Krinhj) | *"Building better solutions, one project at a time"*
+⭐️ From [Krinhj](https://github.com/Krinhj) | _"Building better solutions, one project at a time"_
