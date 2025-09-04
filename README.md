@@ -1,6 +1,6 @@
 # Welcome! I'm Ronnie 👨‍💻
 
-Computer Science graduate with a focus on building impactful applications and making everything I work on better than I found it.
+I'm a Full Stack Developer with a focus on building impactful applications and making everything I work on better than I found it.
 
 ## 🚀 About Me
 
