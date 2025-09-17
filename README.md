@@ -118,7 +118,6 @@ A production-ready REST API for calculating Total Daily Energy Expenditure, depl
 - 🔨 Expanding **MOMENTUM** with additional modules and enhancing **GAIA's** AI orchestration capabilities
 - 🤖 Deepening expertise in **Large Language Models**, **RAG implementations**, and **Vector Database integration**
 - ☁️ Learning **AWS** and **Docker** for scalable cloud deployments
-- 📈 Contributing to open source projects and building collaborative relationships
 
 ## 🎯 Career Philosophy
 
