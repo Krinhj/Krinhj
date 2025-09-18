@@ -99,6 +99,14 @@ An AI/ML healthcare application that performs medical triage by analyzing sympto
 
 A production-ready REST API for calculating Total Daily Energy Expenditure, deployed on Railway and available on RapidAPI. Built with Node.js and Express, extensively tested with Postman for reliability.
 
+### 🏗️ Construction Company Management System
+
+A comprehensive CRUD application built with the **.NET Framework** and **C#** in Visual Studio 2022. Integrated with **SQL Server** to track materials and expenditures across multiple construction projects.
+
+### 🚀 Spacecraft E-Commerce Platform
+
+A full-stack e-commerce solution developed using **PHP**, **MySQL**, and **Apache**, featuring complete shopping cart functionality and database-driven inventory management.
+
 ## 💼 Professional Experience
 
 **Backend Developer** | _Department of Budget and Management, Philippines_ | _Feb 2025 - May 2025_
@@ -107,11 +115,6 @@ A production-ready REST API for calculating Total Daily Energy Expenditure, depl
 - Developed Excel data scraper with automatic data locator that precisely identifies coordinate positions, eliminating manual data location processes
 - Built REST APIs using **Java** with MVC framework to serve government financial data to front-end applications
 - Processed regional data across all Philippines regions for 2024-2025 fiscal periods
-
-**Key Projects:**
-
-- **Construction Company Management System** - Built comprehensive CRUD application using **.NET Framework** with **C#** in Visual Studio 2022, integrated with **SQL Server** for materials and expenditure tracking across multiple construction projects
-- **Spacecraft E-Commerce Platform** - Developed full-stack e-commerce solution using **PHP**, **MySQL**, and **Apache** with complete shopping cart functionality
 
 ## 🌟 Current Focus
 
