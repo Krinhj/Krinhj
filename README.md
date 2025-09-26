@@ -113,7 +113,7 @@ A full-stack e-commerce solution developed using **PHP**, **MySQL**, and **Apach
 
 - Architected and implemented data migration system from MongoDB to SQL Database for National Tax Allocation and National Wealth databases
 - Developed Excel data scraper with automatic data locator that precisely identifies coordinate positions, eliminating manual data location processes
-- Built REST APIs using **Java** with MVC framework to serve government financial data to front-end applications
+- Built REST APIs using **Java Spring Boot** with an MVC framework to serve government financial data to front-end applications
 - Processed regional data across all Philippines regions for 2024-2025 fiscal periods
 
 ## 🌟 Current Focus
