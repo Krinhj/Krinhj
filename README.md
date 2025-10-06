@@ -79,9 +79,10 @@ I'm a Full Stack Developer with a focus on building impactful applications and m
 
 **Live Site:** [cpuexamfinder.vercel.app](https://cpuexamfinder.vercel.app)
 
-**Technical Stack:** 
+**Technical Stack:**
 React 19 + TypeScript, Express.js, Supabase (PostgreSQL), Tailwind CSS, Deployed on Vercel & Render
-**Key Features:** 
+
+**Key Features:**
 - Flexible subject-based search
 - Mobile-responsive design
 - Smart error handling
