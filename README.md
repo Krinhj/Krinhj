@@ -79,9 +79,17 @@ I'm a Full Stack Developer with a focus on building impactful applications and m
 
 **Live Site:** [cpuexamfinder.vercel.app](https://cpuexamfinder.vercel.app)
 
-**Technical Stack:** React 19 + TypeScript, Express.js, Supabase (PostgreSQL), Tailwind CSS, Deployed on Vercel & Render
-**Key Features:** Flexible subject-based search, mobile-responsive design, smart error handling, real-time validation, CPU branding
-**Impact:** Built for fellow CPU students after graduation, with potential for official university integration
+**Technical Stack:** 
+React 19 + TypeScript, Express.js, Supabase (PostgreSQL), Tailwind CSS, Deployed on Vercel & Render
+**Key Features:** 
+- Flexible subject-based search
+- Mobile-responsive design
+- Smart error handling
+- Real-time validation
+- CPU branding
+  
+**Impact:**
+Built for fellow CPU students after graduation, with potential for official university integration
 
 ### 💼 [GetMeHired](https://getmehired-v2.vercel.app) | [Repository](https://github.com/Krinhj/gmh-case-study)
 
