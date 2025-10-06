@@ -83,9 +83,24 @@ I'm a Full Stack Developer with a focus on building impactful applications and m
 **Key Features:** Flexible subject-based search, mobile-responsive design, smart error handling, real-time validation, CPU branding
 **Impact:** Built for fellow CPU students after graduation, with potential for official university integration
 
-### 💼 [GetMeHired](https://get-me-hired.vercel.app/) | [Repository](https://github.com/Krinhj/get-me-hired)
+### 💼 [GetMeHired](https://getmehired-v2.vercel.app) | [Repository](https://github.com/Krinhj/gmh-case-study)
 
-A comprehensive job application tracking tool featuring an AI-powered resume builder and cover letter writer using OpenAI API. Streamlines the job search process with intelligent automation and organization features.
+**A modern job application management platform with AI-powered résumé and cover letter generation, built to simplify and streamline the job search process.**
+
+**Live Site:** [getmehired-v2.vercel.app](https://getmehired-v2.vercel.app)
+
+**Technical Stack:**  
+Next.js 15 + TypeScript, Supabase (PostgreSQL, Auth, Storage, Edge Functions), Tailwind CSS, shadcn/ui, OpenAI API, Deployed on Vercel  
+
+**Key Features:**  
+- Resume ingestion and parsing (auto-fill profile)  
+- AI-tailored résumé and cover letter generation  
+- Match insights for job postings  
+- Structured job application tracking  
+- Workflow automation via Supabase Edge Functions  
+
+**Impact:**  
+Developed as a case study project showcasing the integration of automation, LLM-powered features, and clean full-stack architecture to enhance productivity for job seekers.
 
 ### ⛪ [Baptismal Records App](https://github.com/Krinhj/baptismal-records-app)
 
@@ -94,18 +109,6 @@ A secure desktop application for local parishes to manage baptismal records offl
 ### 🏥 [MediTriage](https://github.com/Krinhj/MediTriage)
 
 An AI/ML healthcare application that performs medical triage by analyzing symptoms to determine treatment urgency. Built using **Python**, **Pandas** for data processing, **Hugging Face** transformers, and trained on the **DDXPlus Dataset** for accurate medical symptom analysis.
-
-### 📊 [TDEE Calculator API](https://github.com/Krinhj/tdee-api)
-
-A production-ready REST API for calculating Total Daily Energy Expenditure, deployed on Railway and available on RapidAPI. Built with Node.js and Express, extensively tested with Postman for reliability.
-
-### 🏗️ Construction Company Management System
-
-A comprehensive CRUD application built with the **.NET Framework** and **C#** in Visual Studio 2022. Integrated with **SQL Server** to track materials and expenditures across multiple construction projects.
-
-### 🚀 Spacecraft E-Commerce Platform
-
-A full-stack e-commerce solution developed using **PHP**, **MySQL**, and **Apache**, featuring complete shopping cart functionality and database-driven inventory management.
 
 ## 💼 Professional Experience
 
