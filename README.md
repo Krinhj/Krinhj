@@ -37,34 +37,6 @@ I'm a **Full Stack Developer & AI Engineer** passionate about building meaningfu
 
 ---
 
-## 🔥 Featured Projects
-
-### 🌟 [MOMENTUM](https://github.com/Krinhj/momentum)
-AI-orchestrated self-improvement suite powered by **GAIA**, a Llama3.1:8b-based orchestrator managing multiple life domains (fitness, finance, nutrition).  
-**Stack:** React + TypeScript, Rust + Tauri, Ollama, Qdrant, Docker
-
----
-
-### 🔍 [CPU Exam Finder](https://cpuexamfinder.vercel.app)
-Searchable exam schedule app for **Central Philippine University** students.  
-**Stack:** React, Express, Supabase, Tailwind CSS  
-**Impact:** Simplified finding schedules from scanned PDFs.
-
----
-
-### 💼 [GetMeHired](https://getmehired-v2.vercel.app)
-AI-powered résumé & cover letter generator and job tracker.  
-**Stack:** Next.js, Supabase, OpenAI API, Tailwind, shadcn/ui  
-**Impact:** Automates job applications and personalizes submissions.
-
----
-
-### 🏥 [MediTriage](https://github.com/Krinhj/MediTriage)
-AI/ML healthcare triage system using **Hugging Face transformers** and **DDXPlus Dataset**.  
-**Stack:** Python, Pandas, Transformers
-
----
-
 ## 💼 Experience
 
 **AI Engineer** – Focused on **multi-agent AI systems**, **Supabase edge architecture**, and **RAG-based orchestration pipelines**  
